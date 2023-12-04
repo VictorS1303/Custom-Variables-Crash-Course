@@ -25,12 +25,7 @@ section.hero .container.hero-desc-container a.btn
     padding: 10px 15px;
 }
 
-section.hero .container.hero-desc-container a.btn:first-child
-{
-    border-radius: 10px;
-}
-
-section.hero .container.hero-desc-container a.btn:last-child
+section.hero .container.hero-desc-container a.btn
 {
     border-radius: 10px;
 }

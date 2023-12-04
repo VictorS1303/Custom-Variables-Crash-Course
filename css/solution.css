@@ -28,7 +28,7 @@ nav h1.logo
 
 nav ul li a
 {
-    color: var(--teal);
+    color: var(--teal-color);
 }
 
 /* Only change color */
@@ -46,7 +46,8 @@ section.hero .container.hero-desc-container p
 /* Change color and background-color and border radius */
 section.hero .container.hero-desc-container a.btn
 {
+    padding: 10px 15px;
     color: var(--primary-text-color);
-    background-color: var(--teal);
+    background-color: var(--teal-color);
     border-radius: var(--border-radius);
 }
