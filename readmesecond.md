@@ -3,7 +3,7 @@
 So, what are custom variables/custom properties in the first place?
 They are essentially variables, just as we know them from JavaScript, but just in CSS.
 They let you write a lot more effecient styling, and they make it 100 times faster to change the whole theme of a web page
-by just changing one value in one place. _Define
+by just changing one value in one place.
 
 ### DECLARING AND ASSIGNING CUSTOM VARIABLES/PROPERTIES ###
 So, how do we write, and where do we define a custom variable/custom property?
