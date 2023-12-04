@@ -1,0 +1,34 @@
+/* 
+    In here, you must match the color scheme from the index.html file by using custom properties/values
+*/
+
+:root
+{
+    /* 
+        - Set a variable named "white" to the white color
+        - Set a variable named "teal color" to the teal color
+        - Set a variable named "primary-text-color" to white.
+        - Set a variable named "border-radius" to 10px
+    */
+
+}
+
+/* Only change color */
+nav h1.logo
+{}
+
+/* Only change color */
+section.hero .container.hero-desc-container header
+{}
+
+/* Only change color */
+section.hero .container.hero-desc-container p
+{}
+
+/* Change color and background-color */
+section.hero .container.hero-desc-container a.btn
+{}
+
+/* Change border radius */
+section.hero .container.hero-desc-container a.btn:last-child
+{}

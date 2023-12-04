@@ -1,0 +1,36 @@
+nav h1.logo
+{
+    color: limegreen;
+}
+
+nav ul li a
+{
+    color: teal;
+}
+
+section.hero .container.hero-desc-container header
+{
+    color: limegreen;
+}
+
+section.hero .container.hero-desc-container p
+{
+    color: white;
+}
+
+section.hero .container.hero-desc-container a.btn
+{
+    color: white;
+    background-color: teal;
+    padding: 10px 15px;
+}
+
+section.hero .container.hero-desc-container a.btn:first-child
+{
+    border-radius: 10px;
+}
+
+section.hero .container.hero-desc-container a.btn:last-child
+{
+    border-radius: 10px;
+}
