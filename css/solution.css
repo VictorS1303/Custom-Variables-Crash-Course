@@ -4,6 +4,11 @@
 
 :root
 {
+    --white: white;
+    --teal-color: teal;
+    --limegreen: limegreen;
+    --primary-text-color: white;
+    --border-radius: 10px;
 
     /* 
         - Set a variable named "white" to the white color
@@ -17,7 +22,9 @@
 
 /* Only change color */
 nav h1.logo
-{}
+{
+    color: var(--limegreen);
+}
 
 nav ul li a
 {
@@ -26,12 +33,20 @@ nav ul li a
 
 /* Only change color */
 section.hero .container.hero-desc-container header
-{}
+{
+    color: var(--limegreen);
+}
 
 /* Only change color */
 section.hero .container.hero-desc-container p
-{}
+{
+    color: var(--primary-text-color);
+}
 
 /* Change color and background-color and border radius */
 section.hero .container.hero-desc-container a.btn
-{}
+{
+    color: var(--primary-text-color);
+    background-color: var(--teal);
+    border-radius: var(--border-radius);
+}
